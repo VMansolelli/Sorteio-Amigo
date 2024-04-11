@@ -30,6 +30,7 @@ Através do projeto foi possível aprender um pouco sobre integração de Java S
 - [x] Embaralhamento de array
 - [x] Botão de clica para exclusão direto na lista
 - [x] Atualização da lista e sorteio
+- [ ] Colocar validação para adicionar nomes todos em maiúsculos para não dar duplicidade por ser case-sensitive
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
