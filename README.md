@@ -8,7 +8,7 @@
 </h1>
 
 <h3>
-    <a href="https://sorteio-amigo.vercel.app/#">💻 Acessar demonstração</a>
+    <a href="https://sorteio-amigo.vercel.app/#" target="_blank">💻 Acessar demonstração</a>
 <h3 >
 
 </div>
